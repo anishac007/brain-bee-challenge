@@ -1,0 +1,30 @@
+{
+  "skillManifest": {
+    "publishingInformation": {
+      "locales": {
+        "en-US": {
+          "summary": "Brain Bee Challenge",
+          "examplePhrases": [
+            "Alexa open Brain Bee Challenge",
+            "Alexa play Brain Bee Challenge",
+            "Alexa start Brain Bee Challenge"
+          ],
+          "name": "Brain Bee Challenge ",
+          "description": "Sample Full Description"
+        }
+      },
+      "isAvailableWorldwide": true,
+      "testingInstructions": "Brain Bee Challenge.",
+      "category": "KNOWLEDGE_AND_TRIVIA",
+      "distributionCountries": []
+    },
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "sourceDir": ""
+        }
+      }
+    },
+    "manifestVersion": "1.0"
+  }
+}
